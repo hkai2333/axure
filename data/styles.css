@@ -7,6 +7,8 @@
   text-align:center;
   line-height:normal;
 }
+._图片_ {
+}
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -50,24 +52,4 @@
 }
 ._文字段落 {
   text-align:left;
-}
-.box_1 {
-}
-._图片_ {
-}
-.line {
-}
-.box_2 {
-}
-.box_3 {
-}
-.label {
-  font-size:14px;
-  text-align:left;
-}
-._图片_1 {
-  color:#000000;
-}
-.primary_button {
-  color:#FFFFFF;
 }
