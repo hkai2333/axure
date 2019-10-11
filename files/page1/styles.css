@@ -782,3 +782,28 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u54_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:122px;
+  height:146px;
+}
+#u54 {
+  border-width:0px;
+  position:absolute;
+  left:27px;
+  top:1158px;
+  width:122px;
+  height:146px;
+}
+#u54_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
